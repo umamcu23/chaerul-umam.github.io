@@ -1,0 +1,3 @@
+Taruh foto profil Anda di folder ini dengan nama: profile.jpg
+Ukuran yang disarankan: foto portrait, minimal 600x600 px.
+Website akan menggunakan file assets/img/profile.jpg.
